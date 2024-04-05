@@ -21,6 +21,7 @@ conda create -n cpullama python=3.8 -y
 ```bash
 conda activate cpullama
 ```
+### prepare/copy template.py and setup.py file from old project
 
 ```bash
 pip install -r requirements.txt
